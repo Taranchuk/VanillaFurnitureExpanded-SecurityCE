@@ -1,0 +1,6 @@
+E:\Documents\GitHub\VanillaFurnitureExpanded-SecurityCE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.csprojAssemblyReference.cache
+E:\Documents\GitHub\VanillaFurnitureExpanded-SecurityCE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\VanillaFurnitureExpanded-SecurityCE\Assemblies\VFESecurityCE.dll
+E:\Documents\GitHub\VanillaFurnitureExpanded-SecurityCE\Assemblies\VFESecurityCE.pdb
+E:\Documents\GitHub\VanillaFurnitureExpanded-SecurityCE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.dll
+E:\Documents\GitHub\VanillaFurnitureExpanded-SecurityCE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.pdb
