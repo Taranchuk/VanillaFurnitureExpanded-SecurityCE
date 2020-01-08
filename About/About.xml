@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Vanilla Furniture Expanded - Security CE</name>
+  <name>Vanilla Furniture Expanded - Security CE [WIP]</name>
   <author>Andross</author>
   <supportedVersions>
     <li>1.0</li>
   </supportedVersions>
-  <description>.</description>
+  <description>Vanilla Security Expanded Combat Extended Patch\n\nThis is a Work In Progress mod as of now most of the buildings should work with the exception of the artillery only working on the home map only (like a normal mortar). Ability to hit other map cells will be added later.</description>
 </ModMetaData>

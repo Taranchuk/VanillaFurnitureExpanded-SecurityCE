@@ -32,13 +32,16 @@
 
   <ThingDef Class="CombatExtended.AmmoDef" Name="12x64mmChargedBase" ParentName="SpacerSmallAmmoBase" Abstract="True">
     <description>High velocity uranium slugs used by the Railgun.</description>
+
     <statBases>
       <Mass>0.1</Mass>
       <Bulk>0.14</Bulk>
     </statBases>
+
     <thingCategories>
       <li>AmmoVFESUraniumSlugs</li>
     </thingCategories>
+
     <stackLimit>200</stackLimit>
     <tradeability>Sellable</tradeability>
     <destroyOnDrop>False</destroyOnDrop>
@@ -73,9 +76,10 @@
 
     <projectile Class="CombatExtended.ProjectilePropertiesCE">
       <damageDef>Bullet</damageDef>
-      <damageAmountBase>36</damageAmountBase>
+      <damageAmountBase>40</damageAmountBase>
       <speed>200</speed>
-      <armorPenetrationBase>3.2</armorPenetrationBase>
+      <armorPenetrationSharp>10</armorPenetrationSharp>
+      <armorPenetrationBlunt>250</armorPenetrationBlunt>
     </projectile>
   </ThingDef>
 
