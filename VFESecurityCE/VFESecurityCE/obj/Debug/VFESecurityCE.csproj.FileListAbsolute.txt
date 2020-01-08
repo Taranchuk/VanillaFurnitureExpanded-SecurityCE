@@ -4,3 +4,8 @@ E:\Documents\GitHub\VanillaFurnitureExpanded-SecurityCE\Assemblies\VFESecurityCE
 E:\Documents\GitHub\VanillaFurnitureExpanded-SecurityCE\Assemblies\VFESecurityCE.pdb
 E:\Documents\GitHub\VanillaFurnitureExpanded-SecurityCE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.dll
 E:\Documents\GitHub\VanillaFurnitureExpanded-SecurityCE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\Assemblies\VFESecurityCE.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\Assemblies\VFESecurityCE.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.csprojAssemblyReference.cache
