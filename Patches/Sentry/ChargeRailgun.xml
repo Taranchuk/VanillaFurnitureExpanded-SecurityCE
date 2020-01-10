@@ -61,7 +61,6 @@
           <defaultProjectile>Bullet_VFES_UraniumSlug</defaultProjectile>
           <warmupTime>2</warmupTime>
           <range>86</range>
-          <minRange>13</minRange>
           <burstShotCount>2</burstShotCount>
           <ticksBetweenBurstShots>14</ticksBetweenBurstShots>
           <soundCast>ChargeLance_Fire</soundCast>

@@ -51,9 +51,9 @@
           <warmupTime>1</warmupTime>
           <range>50</range>
           <burstShotCount>5</burstShotCount>
-          <ticksBetweenBurstShots>7</ticksBetweenBurstShots>
+          <ticksBetweenBurstShots>6</ticksBetweenBurstShots>
           <soundCast>GunShotA</soundCast>
-          <soundCastTail>GunTail_Light</soundCastTail>
+          <soundCastTail>GunTail_Medium</soundCastTail>
           <muzzleFlashScale>9</muzzleFlashScale>
           <recoilPattern>Mounted</recoilPattern>
           <targetParams>
@@ -63,7 +63,7 @@
 
         <AmmoUser>
           <spawnUnloaded>false</spawnUnloaded>
-          <magazineSize>50</magazineSize>
+          <magazineSize>100</magazineSize>
           <reloadTime>4.9</reloadTime>
           <ammoSet>AmmoSet_556x45mmNATO</ammoSet>
         </AmmoUser>

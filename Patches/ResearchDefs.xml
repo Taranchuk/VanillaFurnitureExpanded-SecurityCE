@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Patch>
+
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+
+    <operations>
+      <li Class='PatchOperationReplace'>
+        <xpath>
+          Defs/ResearchProjectDef[
+            defName = 'VFES_MissileBarrage' or
+            defName = 'VFES_ConcealedDefenses' or
+            defName = 'VFES_Artillery']/prerequisites
+        </xpath>
+
+        <value>
+          <prerequisites>
+            <li>CE_TurretHeavyWeapons</li>
+          </prerequisites>
+        </value>
+      </li>
+
+      <li Class='PatchOperationReplace'>
+        <xpath>Defs/ThingDef[defName = 'VFES_Turret_AutocannonDouble']/researchPrerequisites</xpath>
+
+        <value>
+          <researchPrerequisites>
+            <li>CE_HeavyTurret</li>
+          </researchPrerequisites>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+
+</Patch>

@@ -63,7 +63,7 @@
           <range>86</range>
           <burstShotCount>1</burstShotCount>
           <ticksBetweenBurstShots>56</ticksBetweenBurstShots>
-          <soundCast>EnergyShield_AbsorbDamage</soundCast>
+          <soundCast>ChargeLance_Fire</soundCast>
           <soundCastTail>GunTail_Medium</soundCastTail>
           <muzzleFlashScale>9</muzzleFlashScale>
           <recoilPattern>Mounted</recoilPattern>
