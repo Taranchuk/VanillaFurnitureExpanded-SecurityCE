@@ -30,7 +30,7 @@
 
   <!-- ==================== Ammo ========================== -->
 
-  <ThingDef Class="CombatExtended.AmmoDef" Name="12x64mmChargedBase" ParentName="SpacerSmallAmmoBase" Abstract="True">
+  <ThingDef Class="CombatExtended.AmmoDef" Name="UraniumSlugBase" ParentName="SpacerSmallAmmoBase" Abstract="True">
     <description>High velocity uranium slugs used by the Railgun.</description>
 
     <statBases>
@@ -47,7 +47,7 @@
     <destroyOnDrop>False</destroyOnDrop>
   </ThingDef>
 
-  <ThingDef Class="CombatExtended.AmmoDef" ParentName="12x64mmChargedBase">
+  <ThingDef Class="CombatExtended.AmmoDef" ParentName="UraniumSlugBase">
     <defName>Ammo_VFES_UraniumSlugs</defName>
     <label>uranium Slug</label>
     <ammoClass>VFES_UraniumSlug</ammoClass>

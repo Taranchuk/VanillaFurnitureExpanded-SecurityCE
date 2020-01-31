@@ -9,3 +9,4 @@ D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Secu
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\Assemblies\VFESecurityCE.dll
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\Assemblies\VFESecurityCE.pdb
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.csprojAssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.csproj.CopyComplete
