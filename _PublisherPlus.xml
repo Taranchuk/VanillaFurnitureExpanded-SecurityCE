@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Excluded>
+    <exclude>D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\.git</exclude>
+    <exclude>D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\VFESecurityCE</exclude>
+  </Excluded>
+</Configuration>

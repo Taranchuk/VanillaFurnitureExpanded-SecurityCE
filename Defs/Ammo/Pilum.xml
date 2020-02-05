@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- ==================== AmmoSet ========================== -->
+
+  <CombatExtended.AmmoSetDef>
+    <defName>AmmoSet_Pilum</defName>
+    <label>Pilum</label>
+    <ammoTypes>
+      <Pila>Pilum_MachineFired</Pila>
+    </ammoTypes>
+  </CombatExtended.AmmoSetDef>
+
+  <!-- ================== Projectiles ================== -->
+
+  <ThingDef Class="CombatExtended.AmmoDef" ParentName="BasePilumProjectile">
+    <defName>Pilum_MachineFired</defName>
+    <label>bolt</label>
+    <projectile Class="CombatExtended.ProjectilePropertiesCE">
+      <damageAmountBase>25</damageAmountBase>
+      <speed>60</speed>
+      <armorPenetrationSharp>2</armorPenetrationSharp>
+      <armorPenetrationBlunt>3.120</armorPenetrationBlunt>
+      <preExplosionSpawnChance>0.6</preExplosionSpawnChance>
+      <preExplosionSpawnThingDef>Pila</preExplosionSpawnThingDef>
+    </projectile>
+  </ThingDef>
+
+</Defs>
