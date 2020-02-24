@@ -74,7 +74,7 @@
           <verbClass>CombatExtended.Verb_ShootMortarCE</verbClass>
           <hasStandardCommand>True</hasStandardCommand>
           <defaultProjectile>Bullet_81mmMortarShell_HE</defaultProjectile>
-          <warmupTime>4</warmupTime>
+          <warmupTime>1.66</warmupTime>
           <range>700</range>
           <minRange>16</minRange>
           <burstShotCount />

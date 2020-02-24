@@ -6,6 +6,16 @@
 
     <operations>
       <li Class='PatchOperationReplace'>
+        <xpath>Defs/ResearchProjectDef[defName = "VFES_TrenchWarfare"]/prerequisites</xpath>
+
+        <value>
+          <prerequisites>
+            <li>GasOperation</li>
+          </prerequisites>
+        </value>
+      </li>
+
+      <li Class='PatchOperationReplace'>
         <xpath>
           Defs/ResearchProjectDef[
             defName = 'VFES_MissileBarrage' or
@@ -25,7 +35,7 @@
 
         <value>
           <researchPrerequisites>
-            <li>CE_HeavyTurret</li>
+            <li>CE_TurretHeavyWeapons</li>
           </researchPrerequisites>
         </value>
       </li>

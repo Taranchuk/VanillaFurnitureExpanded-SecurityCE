@@ -5,5 +5,13 @@
   <supportedVersions>
     <li>1.0</li>
   </supportedVersions>
-  <description>Vanilla Security Expanded Combat Extended Patch\n\nThis is a Work In Progress mod as of now most of the buildings should work with the exception of the artillery only working on the home map only (like a normal mortar). Ability to hit other map cells will be added later.</description>
+  <description>
+<![CDATA[
+Vanilla Security Expanded - CE Patch
+
+This is a Work In Progress mod as of now most of the buildings should work with the exception of the artillery only working on the home map only (like a normal mortar). Ability to hit other map cells will be added later.
+
+Version <color=#FFD800>1.0.4</color>
+]]>  
+</description>
 </ModMetaData>

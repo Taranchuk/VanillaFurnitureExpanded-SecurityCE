@@ -37,7 +37,7 @@
         <defName>VFES_TurretDoubleAutocannon_Top</defName>
 
         <statBases>
-          <RangedWeapon_Cooldown>1.6</RangedWeapon_Cooldown>
+          <RangedWeapon_Cooldown>0.40</RangedWeapon_Cooldown>
           <SightsEfficiency>1</SightsEfficiency>
           <ShotSpread>0.05</ShotSpread>
           <SwayFactor>1.59</SwayFactor>
@@ -51,7 +51,7 @@
           <warmupTime>1.2</warmupTime>
           <range>75</range>
           <burstShotCount>10</burstShotCount>
-          <ticksBetweenBurstShots>16</ticksBetweenBurstShots>
+          <ticksBetweenBurstShots>6</ticksBetweenBurstShots>
           <soundCast>Shot_Autocannon</soundCast>
           <soundCastTail>GunTail_Heavy</soundCastTail>
           <muzzleFlashScale>12</muzzleFlashScale>
@@ -59,12 +59,15 @@
         </Properties>
 
         <AmmoUser>
-          <magazineSize>500</magazineSize>
+          <magazineSize>250</magazineSize>
           <reloadTime>10.5</reloadTime>
           <ammoSet>AmmoSet_145x114mm</ammoSet>
         </AmmoUser>
 
-        <FireModes />
+        <FireModes>
+					<noSnapshot>true</noSnapshot>
+          <noSingleShot>true</noSingleShot>
+				</FireModes>
 
         <weaponTags Inherit="false">
           <li>TurretGun</li>
