@@ -6,7 +6,7 @@ using System.Reflection;
 using UnityEngine;
 using Verse;
 using RimWorld;
-using Harmony;
+using HarmonyLib;
 using CombatExtended;
 using VFESecurity;
 

@@ -5,7 +5,7 @@ using System.Text;
 using UnityEngine;
 using Verse;
 using RimWorld;
-using Harmony;
+using HarmonyLib;
 using CombatExtended;
 using VFESecurity;
 
@@ -16,10 +16,10 @@ namespace VFESecurityCE
     {
         public VFESecurityCE(ModContentPack content) : base(content)
         {
-            harmonyInstance = HarmonyInstance.Create("Andross.VFESecurityCE");
+            harmonyInstance = new Harmony("Andross.VFESecurityCE");
         }
 
-        public static HarmonyInstance harmonyInstance;
+        public static Harmony harmonyInstance;
 
     }
 

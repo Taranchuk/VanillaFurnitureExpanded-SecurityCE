@@ -10,3 +10,9 @@ D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Secu
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\Assemblies\VFESecurityCE.pdb
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.csprojAssemblyReference.cache
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\Vanilla Furniture Expanded - Security CE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.csproj.CopyComplete
+C:\Users\nfhfy\OneDrive\Документы\GitHub\VanillaFurnitureExpanded-SecurityCE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.csprojAssemblyReference.cache
+C:\Users\nfhfy\OneDrive\Документы\GitHub\VanillaFurnitureExpanded-SecurityCE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.csproj.CoreCompileInputs.cache
+C:\Users\nfhfy\OneDrive\Документы\GitHub\VanillaFurnitureExpanded-SecurityCE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.dll
+C:\Users\nfhfy\OneDrive\Документы\GitHub\VanillaFurnitureExpanded-SecurityCE\VFESecurityCE\VFESecurityCE\obj\Debug\VFESecurityCE.pdb
+C:\Users\nfhfy\OneDrive\Документы\GitHub\VanillaFurnitureExpanded-SecurityCE\Assemblies\VFESecurityCE.dll
+C:\Users\nfhfy\OneDrive\Документы\GitHub\VanillaFurnitureExpanded-SecurityCE\Assemblies\VFESecurityCE.pdb

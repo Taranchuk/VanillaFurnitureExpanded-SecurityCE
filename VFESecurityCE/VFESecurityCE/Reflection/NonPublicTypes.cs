@@ -5,7 +5,7 @@ using System.Text;
 using UnityEngine;
 using Verse;
 using RimWorld;
-using Harmony;
+using HarmonyLib;
 using CombatExtended;
 using VFESecurity;
 
@@ -19,7 +19,7 @@ namespace VFESecurityCE
         public static class CombatExtended
         {
 
-            public static Type CE_Utility = GenTypes.GetTypeInAnyAssemblyNew("CombatExtended.CE_Utility", "CombatExtended");
+            public static Type CE_Utility = GenTypes.GetTypeInAnyAssembly("CombatExtended.CE_Utility", "CombatExtended");
 
         }
 
